@@ -1,4 +1,6 @@
-## Spring Boot와 JPA로 재구현한 POS 프로그램 -> 해당 프로젝트를 기반으로 [자세한 내용은 이쪽](https://github.com/Slowth-KIM/univ-csProject/tree/main/DB%2BC_POS%20Implement)
+## Spring Boot와 JPA로 재구현한 POS 프로그램 
+
+-> 해당 프로젝트를 기반으로 [자세한 내용은 이쪽](https://github.com/Slowth-KIM/univ-csProject/tree/main/DB%2BC_POS%20Implement)
 
 ### 1) POS 프로그램 DB 요구조건
 <br>
