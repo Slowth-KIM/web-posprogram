@@ -1,4 +1,4 @@
-## Spring Boot와 JPA로 재구현한 POS 프로그램 (ver.편의점이나 마트) 
+## Spring Boot와 JPA로 재구현한 POS 프로그램 (ver.쇼핑몰) 
 
 -> 해당 프로젝트를 기반으로 [자세한 내용은 이쪽](https://github.com/Slowth-KIM/univ-csProject/tree/main/DB%2BC_POS%20Implement)
 
