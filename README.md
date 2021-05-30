@@ -2,6 +2,26 @@
 
 -> 해당 프로젝트를 기반으로 [자세한 내용은 이쪽](https://github.com/Slowth-KIM/univ-csProject/tree/main/DB%2BC_POS%20Implement)
 
+
+
+<br>
+
+### 0) 사용한 부트스트랩 테마
+
+<br>
+
+1. SB ADMIN
+3. SB ADMIN2
+4. SHOP HOMEPAGE
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
 ### 1) POS 프로그램 DB 요구조건
 <br>
 <br>
